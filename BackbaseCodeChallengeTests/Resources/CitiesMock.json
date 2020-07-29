@@ -1,0 +1,7 @@
+[
+{"country":"country3","name":"name3","_id":3,"coord":{"lon":34.283333,"lat":44.549999}},
+{"country":"country2","name":"name2","_id":2,"coord":{"lon":34.283333,"lat":44.549999}},
+{"country":"country1","name":"name1","_id":1,"coord":{"lon":34.283333,"lat":44.549999}},
+{"country":"Egypt","name":"Cairo","_id":5,"coord":{"lon":34.283333,"lat":44.549999}},
+{"country":"country4","name":"name4","_id":4,"coord":{"lon":34.283333,"lat":44.549999}}
+]
