@@ -9,7 +9,7 @@
 import Combine
 import Foundation
 
-@testable import BackbaseCodeChallenge
+@testable import BACKBASE
 
 final class CityListServiceMock: CityListService {
     

@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import BackbaseCodeChallenge
+@testable import BACKBASE
 
 final class CityListViewControllerTests: XCTestCase {
     

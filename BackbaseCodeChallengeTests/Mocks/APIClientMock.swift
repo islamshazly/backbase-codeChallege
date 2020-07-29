@@ -7,7 +7,7 @@
 //
 import Foundation
 import Combine
-@testable import BackbaseCodeChallenge
+@testable import BACKBASE
 
 final class APIClientMock: APIClient {
     

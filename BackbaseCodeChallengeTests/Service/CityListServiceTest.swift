@@ -8,7 +8,7 @@
 
 import XCTest
 import Combine
-@testable import BackbaseCodeChallenge
+@testable import BACKBASE
 
 final class CityListServiceTest: XCTestCase {
     

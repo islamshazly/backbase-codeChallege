@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import BackbaseCodeChallenge
+@testable import BACKBASE
 import Combine
 
 final class CityListViewModelTest: XCTestCase{

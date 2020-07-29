@@ -831,7 +831,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BackbaseCodeChallenge.app/BackbaseCodeChallenge";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BACKBASE.app/BACKBASE";
 			};
 			name = Debug;
 		};
@@ -852,7 +852,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BackbaseCodeChallenge.app/BackbaseCodeChallenge";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BACKBASE.app/BACKBASE";
 			};
 			name = Release;
 		};
