@@ -1,6 +1,6 @@
 //
-//  AlertView.swift
-//  TrueCallerAssignment
+//  
+//
 //
 //  Created by islam Elshazly on 24/07/2020.
 //  Copyright © 2019 IslamElshazly. All rights reserved.

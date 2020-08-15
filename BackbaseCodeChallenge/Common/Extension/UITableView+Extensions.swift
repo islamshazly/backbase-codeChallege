@@ -1,6 +1,6 @@
 //
 //  UITableView+Extensions.swift
-//  Momox
+//  
 //
 //  Created by islam Elshazly on 24/07/2020.
 //  Copyright © 2020 islam Elshazly. All rights reserved.
